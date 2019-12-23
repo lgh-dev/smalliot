@@ -1,4 +1,4 @@
-package org.lgh.common.domain.device.manage;
+package org.lgh.common.domain.entity.device.manage;
 
 /**
  * @author liangguohui@iot-cas.com

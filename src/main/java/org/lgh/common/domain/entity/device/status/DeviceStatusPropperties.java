@@ -1,4 +1,4 @@
-package org.lgh.common.domain.device.status;
+package org.lgh.common.domain.entity.device.status;
 
 /**
  * @author liangguohui@iot-cas.com

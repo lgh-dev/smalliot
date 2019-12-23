@@ -1,6 +1,6 @@
-package org.lgh.common.domain.device.timing;
+package org.lgh.common.domain.entity.devicemodel.prop;
 
-import org.lgh.common.domain.BaseEntity;
+import org.lgh.common.domain.entity.BaseEntity;
 
 /**
  * @author liangguohui@iot-cas.com

@@ -1,6 +1,6 @@
-package org.lgh.common.domain.device.manage;
+package org.lgh.common.domain.entity.device.manage;
 
-import org.lgh.common.domain.BaseEntity;
+import org.lgh.common.domain.entity.BaseEntity;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package org.lgh.common.domain;
+package org.lgh.common.domain.entity;
 
 import org.lgh.common.utils.IdUtil;
 

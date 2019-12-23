@@ -1,6 +1,6 @@
-package org.lgh.common.domain.device;
+package org.lgh.common.domain.entity.device;
 
-import org.lgh.common.domain.BaseEntity;
+import org.lgh.common.domain.entity.BaseEntity;
 
 /**
  * @author liangguohui@iot-cas.com
