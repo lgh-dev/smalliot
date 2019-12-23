@@ -10,12 +10,15 @@ import org.lgh.common.domain.entity.BaseEntity;
  */
 public class Device extends BaseEntity{
 
+	//设备型号ID
+	private long deviceModelId;
+	//设备uid
 	private String uid;
-
+	//设备名称
 	private String name;
-
+	//经度
 	private String longitude;
-
+	//纬度
 	private String latitude;
 
 }

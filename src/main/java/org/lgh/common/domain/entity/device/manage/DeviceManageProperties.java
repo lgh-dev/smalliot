@@ -11,6 +11,12 @@ import java.util.List;
  * @date 2019/12/22
  */
 public class DeviceManageProperties  extends BaseEntity {
-	//管理标签。 租户、部门、区域
-	private List<ManageTitle> manageTitles;
+
+	private long deviceId;
+
+	private long tenantsId;
+
+	private long regionsId;
+
+	private long departmentId;
 }
